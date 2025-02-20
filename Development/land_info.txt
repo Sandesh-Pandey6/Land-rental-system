@@ -1,0 +1,5 @@
+  101  ,  Janakpur  ,  North  ,  10  ,  15000  ,  Not Available  ,  Shivam Kumar Thakur  ,  7  ,  2024-05-07  
+  102  ,  Patan  ,  South  ,  5  ,  35000  ,  Available  ,  None  ,  0  ,  Renting Date Here  
+  103  ,  Lalitpur  ,  East  ,  2  ,  50000  ,  Not Available  ,  Shivam Thakur  ,  11  ,  2024-05-25  
+  104  ,  Kalanki  ,  West  ,  2  ,  70000  ,  Available  ,  None  ,  0  ,  Renting Date Here  
+  105  ,  Bhaktapur  ,  North  ,  2  ,  80000  ,  Not Available  ,  Akshay Thakur  ,  11  ,  2024-05-07  
